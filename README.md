@@ -1,6 +1,8 @@
 Link na originalni rad je https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JD024877
 
-# Analiza podataka
+# Zahtev zadatka
+
+## Analiza podataka
 #### 1. Pojašnjenje podataka iz baze:
 * No: redni broj vrste
 * year: godina
@@ -27,7 +29,7 @@ Link na originalni rad je https://agupubs.onlinelibrary.wiley.com/doi/full/10.10
 #### 9.	Analizirati međukorelaciju obeležja.
 #### 10.	Po sopstvenom izboru uraditi još neku vrstu analize (takođe obavezna stavka).
 
-# Napraviti model linearne regresije koji predviđa koncentraciju PM2.5
+## Napraviti model linearne regresije koji predviđa koncentraciju PM2.5 čestica
 *	Potrebno je 10% nasumično izabranih uzoraka ostaviti kao test skup, a preostalih 90% koristiti za obuku modela.
 *	Isprobati različite hipoteze, primeniti selekciju obeležja, kao i regularizaciju.
 * Odabrati konačni model linearne regresije koji po vama predstavlja najbolji model od svih ispitanih modela i objasniti zašto je baš taj model odabran.
